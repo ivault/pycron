@@ -1,0 +1,5 @@
+Caution: if you have a previously installed version of PyCron please uninstall it first:
+
+* stop the Python Cron Service
+* uninstall pycron
+

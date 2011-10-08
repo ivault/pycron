@@ -1,0 +1,15 @@
+=================================================================
+Copyright (C) 2003-2007 Gerhard Kalab / The PyCron Project . All rights reserved.
+
+=================================================================
+
+This software consists of voluntary contributions made by many
+individuals on behalf of The PyCron Project.  For more
+information on The Pycron Project, please see
+<http://pycron.berlios.de/>.
+
+PyCron is licensed under the GNU General Public License v3.
+All documentation included in this distribution and on the website
+is licensed under the GNU Free Documentation License.
+
+=================================================================

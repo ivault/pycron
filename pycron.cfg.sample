@@ -1,0 +1,4 @@
+[pycron]
+old_dow_compatibility = 0
+crontab_filename = crontab.txt
+log_filename = pycron.log

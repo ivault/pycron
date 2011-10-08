@@ -1,0 +1,2 @@
+mkdir doc
+C:\Python23\Scripts\epydoc.py -o doc --css blue pycron.py weekdayWizardDialog.py monthWizardDialog.py dayWizardDialog.py hourWizardDialog.py minuteWizardDialog.py taskDialog.py editorDialog.py pyCronEditor.py tools.py
